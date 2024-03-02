@@ -1,9 +1,10 @@
 import React from 'react'
+import Layout from './Layout/Layout'
 
 const App = () => {
   return (
     <div>
-  <h1>Ecommers store</h1>
+<Layout />
     </div>
   )
 }
